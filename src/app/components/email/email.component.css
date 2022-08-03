@@ -1,0 +1,33 @@
+.field
+{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.card h1{
+    text-align: center;
+}
+
+.card{
+    box-sizing: border-box;
+    width: 55%;
+    margin: auto;
+    padding: 70px;
+    box-shadow: 1px 1px 15px gray;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.text-center{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.text-center button
+{
+    margin: 10px;
+}
+
+.container{
+    margin-top: 50px;
+}
